@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine vision.
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on anything, really.
-- 📫 How to reach me kevin.06.huang@gmail.com
+- 📫 How to reach me: kevin.06.huang@gmail.com
 
 <!---
 kevin-06-huang/kevin-06-huang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
