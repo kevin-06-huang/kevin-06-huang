@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kevin Huang.
 - 👀 I’m interested in machine vision.
-- 🌱 I’m currently mastering cache invalidation.
-- 💞️ I’m looking to collaborate on anything, really.
+- 🌱 I’m currently learning Zig!!!
 - 📫 How to reach me: kevin.06.huang@gmail.com
 
 <!---
