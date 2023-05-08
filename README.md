@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Huang.
 - 👀 I’m interested in machine vision.
-- 🌱 I’m currently learning Zig!!!
+- 🌱 I’m currently learning C#, step aside Zig.
 - 📫 How to reach me: kevin.06.huang@gmail.com
 
 <!---
