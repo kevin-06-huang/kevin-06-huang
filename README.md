@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Huang.
 - 👀 I’m interested in machine vision.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently mastering C++.
 - 📫 How to reach me: kevin.06.huang@gmail.com
 
 <!---
