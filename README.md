@@ -1,3 +1,5 @@
+![](https://github.com/kevin-06-huang/kevin-06-huang/blob/main/jurassic-park-ah.gif)
+
 - 👋 Hi, I’m Kevin Huang.
 - 👀 I’m interested in machine vision.
 - 🌱 I’m currently mastering C++.
