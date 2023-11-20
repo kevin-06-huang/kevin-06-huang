@@ -3,6 +3,7 @@
 - 🌱 I’m currently mastering C++.
 - 🦖 Jurassic Park is about paying software engineers fairly.
 - 📫 Reach me at: kevin.06.huang@gmail.com.
+
 ![](https://github.com/kevin-06-huang/kevin-06-huang/blob/main/jurassic-park-ah.gif)
 
 <!---
