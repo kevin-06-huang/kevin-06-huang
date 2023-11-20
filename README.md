@@ -2,7 +2,9 @@
 - 👀 I’m interested in machine vision.
 - 🌱 I’m currently mastering C++.
 - 🦖 Jurassic Park is about paying software engineers fairly.
+- 
 ![](https://github.com/kevin-06-huang/kevin-06-huang/blob/main/jurassic-park-ah.gif)
+
 - 📫 Reach me at: kevin.06.huang@gmail.com.
 
 <!---
