@@ -8,7 +8,6 @@
             - 👀 I’m interested in machine vision.<br>
             - 🌱 I’m currently mastering C++. <br>
             - 🦖 [Jurassic Park](https://www.imdb.com/title/tt0107290/) is about paying software engineers fairly.<br>
-            [This is an external link to genome.gov](https://www.genome.gov/)
             - 📫 Reach me at: kevin.06.huang@gmail.com.
         </td>
     </tr>
