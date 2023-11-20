@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github.com/kevin-06-huang/kevin-06-huang/blob/main/jurassic-park-ah.gif" alt="Jurassic Park GIF" width="200px" />
+            <img src="https://github.com/kevin-06-huang/kevin-06-huang/blob/main/jurassic-park-ah.gif" alt="Jurassic Park GIF" width="220px" />
         </td>
         <td>
             - 👋 Hi, I’m Kevin Huang.<br>
