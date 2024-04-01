@@ -5,9 +5,8 @@
         </td>
         <td>
             - 👋 Hi, I’m Kevin Huang.<br>
-            - 👀 I’m interested in machine vision.<br>
+            - 👀 I’m learning machine learning.<br>
             - 🌱 I’m currently mastering C++. <br>
-            - 🦖 Jurassic Park is about paying software engineers fairly.<br>
             - 📫 Reach me at: kevin.06.huang@gmail.com.
         </td>
     </tr>
