@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Huang.<br>
-- 👀 I’m learning machine learning.<br>
-- 🌱 I’m currently mastering C++. <br>
+- 👋 Hi, I’m Kevin Huang.
+- 👀 I’m learning UE5/Blender.
+- 🌱 I’m currently mastering C++.
 - 📫 Reach me at: kevin.06.huang@gmail.com.
