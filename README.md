@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kevin Huang.
-- 👀 I’m learning UE5/Blender.
+- 👀 I’m deeply interested in scaling distributed simulation.
 - 🌱 I’m currently mastering C++.
 - 📫 Reach me at: kevin.06.huang@gmail.com.
