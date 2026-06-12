@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kevin Huang.
 - 👀 I’m deeply interested in scaling distributed simulation.
-- 🌱 I’m currently mastering C++.
+- 🌱 I’m currently playing with drones.
 - 📫 Reach me at: kevin.06.huang@gmail.com.
